@@ -10,9 +10,6 @@
 
 <div align="center">
   <h1 style="margin-top: 0;"></h1>
-  <a href="https://planb.network/en/node-network">
-    <img alt="Website" src="https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fstart9.com&logo=website&label=%F0%9F%8C%90%20Become a P₿N Node&color=ff5c00">
-  </a>
   <a href="https://twitter.com/planb_network">
     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/planb_network">
   </a>
